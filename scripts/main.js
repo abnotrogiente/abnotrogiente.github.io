@@ -40,7 +40,7 @@ function buttonP2EventListener() {
 
 
 let myHeading = document.querySelector("h1");
-myHeading.textContent = "Hellow, world !";
+//myHeading.textContent = "Hellow, world !";
 
 let img = document.querySelector("img");
 img.addEventListener("click", imgListener);
