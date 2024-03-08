@@ -1,0 +1,97 @@
+.c {
+    color: green;
+    
+
+}
+
+li[id] {
+    width: 500px;
+    border: 1px solid blue;
+}
+
+#l2 {
+    color: pink;
+
+}
+
+
+a:hover {
+    color: red;
+}
+
+.micro-5-regular {
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    font-style: normal;
+  }
+  
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h1 {
+    text-shadow: 3px 3px 1px black;
+    margin: 0;
+    padding: 20px 0;
+} 
+
+h1,
+h2 {
+    margin: 0;
+    padding: 20px 0;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+html{
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-style: normal;
+    background-color:antiquewhite;
+}
+body {
+    display: block;
+    margin: 50px 0;
+}
+
+#bouton_p2 {
+    width: 200px;
+    height: 40px;
+    display: block;
+    font-size: 25px;
+    margin: 0 auto 30px auto;
+}
+
+#button_name {
+    display: block;
+    margin: 10px 100px -70px auto;
+}
+
+.p2 {
+    border: 5px solid;
+    margin: auto;
+    width: 70%;
+    background-color: coral;
+    align-items: center;
+    padding: 10px;
+    display: none;
+}
+
+img {
+    display: block; /*obligé de mettre ça pour le centrer comme c'est une image
+    (pour que l'image se comporte comme un élément de bloc)*/
+    margin: 0 auto;
+}
+
